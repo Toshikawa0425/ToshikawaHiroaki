@@ -1,0 +1,20 @@
+newmtl Cliff_Edge
+map_Kd Cliff_Edge.png
+Kd 0.8490566 0.7687883 0.740121
+d 1
+
+newmtl Cliff
+map_Kd Cliff.png
+Kd 0.8490566 0.7687883 0.740121
+d 1
+
+newmtl Cliff_Edge_Middle
+map_Kd Cliff_Edge_Middle.png
+Kd 0.8490566 0.7687883 0.740121
+d 1
+
+newmtl Cliff_Middle
+map_Kd Cliff_Middle.png
+Kd 0.8490566 0.7687883 0.740121
+d 1
+

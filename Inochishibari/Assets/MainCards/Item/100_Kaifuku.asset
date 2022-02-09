@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352ca822860c0e34e818113e4bde6d13, type: 3}
+  m_Name: 100_Kaifuku
+  m_EditorClassIdentifier: 
+  CardID: 00010000
+  cardType: 2
+  cardName: "\u3042\u304B\u3044\u30AF\u30B9\u30EA"
+  wazaType: 3
+  cardImage: {fileID: 21300000, guid: e244e0b331cfa884aa5510efd535e6f0, type: 3}
+  cardZokusei: 0
+  charaStates:
+    MaxHP: 0
+  itemAndSkillStates:
+    isImportant: 0
+    cost: 0
+    isPrivateCard: 0
+    infoText: "HP\u3092\uFF13\u56DE\u5FA9"
+    damagePoint: 2
+    userCard: []
+    target: 4
+    effectType: 1

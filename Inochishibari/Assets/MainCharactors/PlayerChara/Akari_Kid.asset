@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8034cad64fecd459b36b5f48d52529, type: 3}
+  m_Name: Akari_Kid
+  m_EditorClassIdentifier: 
+  Sprites_Run:
+    forward:
+    - {fileID: 2873387260857079568, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 2529567105048037852, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 160953632441954526, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 7807246458450652043, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 864260977203145867, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 1323384798814890551, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    back:
+    - {fileID: 6717659120432451091, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: -8684396375823275725, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: -2203483675930014793, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: -6396856297794194887, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 6674192103532199266, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    - {fileID: 6010913028829944367, guid: 0513dd82820ae204783a6dffd4a4082e, type: 3}
+    right:
+    - {fileID: 1762475041169425513, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -645028163144713862, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -5536205757819148324, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: 3494290126564206266, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: 7537110700727493148, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: 3690596471811161967, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    left:
+    - {fileID: 6104309266893925458, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -4711325058237683334, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -1402860891082710936, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -3511139002363897219, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: -5554915426687090647, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+    - {fileID: 7979326016629758884, guid: 826976b4c7c2e154da70b8e07b61ac76, type: 3}
+  Sprites_Idle:
+    forward: {fileID: 5524442734760624972, guid: cfb2cd5aec5edfc42bc0ea5e8b104827, type: 3}
+    back: {fileID: 6685761592615657451, guid: cfb2cd5aec5edfc42bc0ea5e8b104827, type: 3}
+    right: {fileID: -2087298162102290591, guid: cfb2cd5aec5edfc42bc0ea5e8b104827, type: 3}
+    left: {fileID: 2806387161555510762, guid: cfb2cd5aec5edfc42bc0ea5e8b104827, type: 3}
+  charaCard: {fileID: 11400000, guid: fd0599a1eca27394bb186dd2a57d6dfa, type: 2}
+  getSkillLevel:
+  - level: 2
+    skill: {fileID: 11400000, guid: 2c16d0e4a5f0b3e4ebd528c392bff057, type: 2}

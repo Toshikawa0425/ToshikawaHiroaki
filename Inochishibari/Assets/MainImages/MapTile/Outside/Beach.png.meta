@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 29878ccb6e4c8304a91a96973b0c62a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6146795774391780013
+    second: Beach_0
+  - first:
+      213: -7839720929918244483
+    second: Beach_1
+  - first:
+      213: 4714704212175276873
+    second: Beach_2
+  - first:
+      213: 228621964648864360
+    second: Beach_3
+  - first:
+      213: 5699045257292805443
+    second: Beach_4
+  - first:
+      213: -9214783355573753972
+    second: Beach_5
+  - first:
+      213: 7201960969441130307
+    second: Beach_6
+  - first:
+      213: 7695835534877583419
+    second: Beach_7
+  - first:
+      213: -721079668679348047
+    second: Beach_8
+  - first:
+      213: -5779227232710834306
+    second: Beach_9
+  - first:
+      213: 5508108389370972179
+    second: Beach_10
+  - first:
+      213: -7818470522051490577
+    second: Beach_11
+  - first:
+      213: -3685891821689080187
+    second: Beach_12
+  - first:
+      213: -1600087425272334168
+    second: Beach_13
+  - first:
+      213: 2338734681172880487
+    second: Beach_14
+  - first:
+      213: 6228644212666961924
+    second: Beach_15
+  - first:
+      213: -6737283710533907472
+    second: Beach_16
+  - first:
+      213: -7011640693540663382
+    second: Beach_17
+  - first:
+      213: 529542882439746871
+    second: Beach_18
+  - first:
+      213: -4561339164775340265
+    second: Beach_19
+  - first:
+      213: -8139745635323216618
+    second: Beach_20
+  - first:
+      213: 376289287889580720
+    second: Beach_21
+  - first:
+      213: -4800677615479109082
+    second: Beach_22
+  - first:
+      213: -5525532560009000291
+    second: Beach_23
+  - first:
+      213: 2437225268380593475
+    second: Beach_24
+  - first:
+      213: 6318157060554537851
+    second: Beach_25
+  - first:
+      213: 1071270678071601078
+    second: Beach_26
+  - first:
+      213: 3896068957978023835
+    second: Beach_27
+  - first:
+      213: 7798294803524229362
+    second: Beach_28
+  - first:
+      213: 4063129136634641932
+    second: Beach_29
+  - first:
+      213: 5379126871292432029
+    second: Beach_30
+  - first:
+      213: -1891285218720813060
+    second: Beach_31
+  - first:
+      213: 4746154951520843558
+    second: Beach_32
+  - first:
+      213: 2531204210846795337
+    second: Beach_33
+  - first:
+      213: 5684193813345485137
+    second: Beach_34
+  - first:
+      213: -3688118143330603750
+    second: Beach_35
+  - first:
+      213: 3470603659143854332
+    second: Beach_36
+  - first:
+      213: 3533155427474806218
+    second: Beach_37
+  - first:
+      213: 6919548459901158396
+    second: Beach_38
+  - first:
+      213: -6875221296398957902
+    second: Beach_39
+  - first:
+      213: 5134891562296468942
+    second: Beach_40
+  - first:
+      213: 7680557231755263664
+    second: Beach_41
+  - first:
+      213: -1306220517867427905
+    second: Beach_42
+  - first:
+      213: 4230307768048946540
+    second: Beach_43
+  - first:
+      213: 2173463413723721104
+    second: Beach_44
+  - first:
+      213: 673680569551630639
+    second: Beach_45
+  - first:
+      213: -534999875555315925
+    second: Beach_46
+  - first:
+      213: -3858931864592171499
+    second: Beach_47
+  - first:
+      213: -5175446010100301551
+    second: Beach_48
+  - first:
+      213: -1180776159519037270
+    second: Beach_49
+  - first:
+      213: 4478504625601278623
+    second: Beach_50
+  - first:
+      213: -8167613285394637533
+    second: Beach_51
+  - first:
+      213: -2555261542265653280
+    second: Beach_52
+  - first:
+      213: -4776201516810279642
+    second: Beach_53
+  - first:
+      213: -6153039095054496273
+    second: Beach_54
+  - first:
+      213: 3489557338649578508
+    second: Beach_55
+  - first:
+      213: 5785135652015162517
+    second: Beach_56
+  - first:
+      213: 3806829616220275884
+    second: Beach_57
+  - first:
+      213: 4686923137514871883
+    second: Beach_58
+  - first:
+      213: -7366600034506046274
+    second: Beach_59
+  - first:
+      213: -2469323912461902214
+    second: Beach_60
+  - first:
+      213: 7547159227731735227
+    second: Beach_61
+  - first:
+      213: -5793347016958827393
+    second: Beach_62
+  - first:
+      213: 6365273812108413532
+    second: Beach_63
+  - first:
+      213: 3385943915875055074
+    second: Beach_64
+  - first:
+      213: 4249412347298309288
+    second: Beach_65
+  - first:
+      213: 3233635454136026160
+    second: Beach_66
+  - first:
+      213: -3016165915671441030
+    second: Beach_67
+  - first:
+      213: 5912838495423075740
+    second: Beach_68
+  - first:
+      213: -5390401136921073769
+    second: Beach_69
+  - first:
+      213: 1419905686532016196
+    second: Beach_70
+  - first:
+      213: 5723159383680977426
+    second: Beach_71
+  - first:
+      213: 8897405938499087953
+    second: Beach_72
+  - first:
+      213: -2802155655589986364
+    second: Beach_73
+  - first:
+      213: 220906385920933752
+    second: Beach_74
+  - first:
+      213: -9120666801431432679
+    second: Beach_75
+  - first:
+      213: -4946582789632494329
+    second: Beach_76
+  - first:
+      213: -2653893496316202372
+    second: Beach_77
+  - first:
+      213: -8517917357821481892
+    second: Beach_78
+  - first:
+      213: -9193259424058954334
+    second: Beach_79
+  - first:
+      213: -1017626992727821283
+    second: Beach_80
+  - first:
+      213: -8645832444966340409
+    second: Beach_81
+  - first:
+      213: 5339905470095601842
+    second: Beach_82
+  - first:
+      213: 5844122665371057813
+    second: Beach_83
+  - first:
+      213: -8017493120768540237
+    second: Beach_84
+  - first:
+      213: -8978100831065288435
+    second: Beach_85
+  - first:
+      213: -7486957317172748266
+    second: Beach_86
+  - first:
+      213: 7426242406600627067
+    second: Beach_87
+  - first:
+      213: -1259103668824831723
+    second: Beach_88
+  - first:
+      213: 533378474586119942
+    second: Beach_89
+  - first:
+      213: 5419192630869824109
+    second: Beach_90
+  - first:
+      213: -3700134222889092003
+    second: Beach_91
+  - first:
+      213: 3214342148438917154
+    second: Beach_92
+  - first:
+      213: -6711405401338917125
+    second: Beach_93
+  - first:
+      213: -3975070788148526786
+    second: Beach_94
+  - first:
+      213: -1759127822097535317
+    second: Beach_95
+  - first:
+      213: -3122334369712959459
+    second: Beach_96
+  - first:
+      213: -7742214635630314227
+    second: Beach_97
+  - first:
+      213: -7835761459745080522
+    second: Beach_98
+  - first:
+      213: 8014722288666220819
+    second: Beach_99
+  - first:
+      213: -358264291600781139
+    second: Beach_100
+  - first:
+      213: 2255330214345815374
+    second: Beach_101
+  - first:
+      213: -111915941587883009
+    second: Beach_102
+  - first:
+      213: 4167992700063597544
+    second: Beach_103
+  - first:
+      213: 3814711679359052585
+    second: Beach_104
+  - first:
+      213: -9120067236138252287
+    second: Beach_105
+  - first:
+      213: 5044806462581658581
+    second: Beach_106
+  - first:
+      213: 5359699059120066708
+    second: Beach_107
+  - first:
+      213: -2225722445576352431
+    second: Beach_108
+  - first:
+      213: -3955884070879199124
+    second: Beach_109
+  - first:
+      213: 9049041620439239285
+    second: Beach_110
+  - first:
+      213: 7520815855069569040
+    second: Beach_111
+  - first:
+      213: 3472861093315099434
+    second: Beach_112
+  - first:
+      213: 2393881027381289830
+    second: Beach_113
+  - first:
+      213: -2450071702258443108
+    second: Beach_114
+  - first:
+      213: 7093255742796119868
+    second: Beach_115
+  - first:
+      213: 7334309444288300037
+    second: Beach_116
+  - first:
+      213: 7573452477726689782
+    second: Beach_117
+  - first:
+      213: 4917865027794455670
+    second: Beach_118
+  - first:
+      213: 8081402240840754523
+    second: Beach_119
+  - first:
+      213: -2670444891924811621
+    second: Beach_120
+  - first:
+      213: 2587920305465619970
+    second: Beach_121
+  - first:
+      213: -8331663508638715817
+    second: Beach_122
+  - first:
+      213: -5430196691043808177
+    second: Beach_123
+  - first:
+      213: 6809509578068203262
+    second: Beach_124
+  - first:
+      213: -4806610951282133950
+    second: Beach_125
+  - first:
+      213: -5692612978264677486
+    second: Beach_126
+  - first:
+      213: -9045889812354190739
+    second: Beach_127
+  - first:
+      213: -3024486611317325181
+    second: Beach_128
+  - first:
+      213: -968157891640079698
+    second: Beach_129
+  - first:
+      213: 4145249219710808323
+    second: Beach_130
+  - first:
+      213: -2249374509420745158
+    second: Beach_131
+  - first:
+      213: 5480548427095374059
+    second: Beach_132
+  - first:
+      213: -1435316846818967364
+    second: Beach_133
+  - first:
+      213: 5112270799185583077
+    second: Beach_134
+  - first:
+      213: -1374725575820456402
+    second: Beach_135
+  - first:
+      213: 941002888250286845
+    second: Beach_136
+  - first:
+      213: -6614830072394000318
+    second: Beach_137
+  - first:
+      213: 5408818537530528981
+    second: Beach_138
+  - first:
+      213: 6988077151201329490
+    second: Beach_139
+  - first:
+      213: -2421872264669397257
+    second: Beach_140
+  - first:
+      213: 66175535853899506
+    second: Beach_141
+  - first:
+      213: 6564449325367099086
+    second: Beach_142
+  - first:
+      213: 4116685588884571557
+    second: Beach_143
+  - first:
+      213: 3770558096658590303
+    second: Beach_144
+  - first:
+      213: 3132058080566076621
+    second: Beach_145
+  - first:
+      213: -3227398238641361317
+    second: Beach_146
+  - first:
+      213: 6990267046606883035
+    second: Beach_147
+  - first:
+      213: 2562988782321806807
+    second: Beach_148
+  - first:
+      213: -6396906203464455442
+    second: Beach_149
+  - first:
+      213: -5765946543734103912
+    second: Beach_150
+  - first:
+      213: 3432005546116380946
+    second: Beach_151
+  - first:
+      213: 6323621877825314755
+    second: Beach_152
+  - first:
+      213: 3639963302363242745
+    second: Beach_153
+  - first:
+      213: 8403125408377196072
+    second: Beach_154
+  - first:
+      213: 1873563597460161891
+    second: Beach_155
+  - first:
+      213: 5267607461695911458
+    second: Beach_156
+  - first:
+      213: -754342551906766912
+    second: Beach_157
+  - first:
+      213: 8279499760434812081
+    second: Beach_158
+  - first:
+      213: -5099525381701658941
+    second: Beach_159
+  - first:
+      213: 5789955491672191435
+    second: Beach_160
+  - first:
+      213: 1826895764910240261
+    second: Beach_161
+  - first:
+      213: 3757193947553889529
+    second: Beach_162
+  - first:
+      213: 9062709376632144596
+    second: Beach_163
+  - first:
+      213: 333993995474741319
+    second: Beach_164
+  - first:
+      213: -6307732865940357359
+    second: Beach_165
+  - first:
+      213: -2424467223146998739
+    second: Beach_166
+  - first:
+      213: -840627474911860472
+    second: Beach_167
+  - first:
+      213: 2685935919513912544
+    second: Beach_168
+  - first:
+      213: -7355895110840835840
+    second: Beach_169
+  - first:
+      213: 1342721150028918085
+    second: Beach_170
+  - first:
+      213: -4985750278732440697
+    second: Beach_171
+  - first:
+      213: -7160126013027240670
+    second: Beach_172
+  - first:
+      213: 651603621206883402
+    second: Beach_173
+  - first:
+      213: 1086393714904036961
+    second: Beach_174
+  - first:
+      213: -2728201509563311134
+    second: Beach_175
+  - first:
+      213: 4125546635001240500
+    second: Beach_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beach_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 719
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d71807fc132baa0800000000000000
+      internalID: -6146795774391780013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 721
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792702d957b33390800000000000000
+      internalID: -7839720929918244483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 724
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bcebb508efd6140800000000000000
+      internalID: 4714704212175276873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 720
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5fbe277a3c2300800000000000000
+      internalID: 228621964648864360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 731
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345ffc77773171f40800000000000000
+      internalID: 5699045257292805443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 729
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8728d03c538e1080800000000000000
+      internalID: -9214783355573753972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 719
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34734c5185182f360800000000000000
+      internalID: 7201960969441130307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 733
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e43a05a91dca60800000000000000
+      internalID: 7695835534877583419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 750
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07c9d9cd53ef5f0800000000000000
+      internalID: -721079668679348047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 728
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c106937f0ccfa0800000000000000
+      internalID: -5779227232710834306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 388
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184ecc956bb07c40800000000000000
+      internalID: 5508108389370972179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 727
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0246fb763f7390800000000000000
+      internalID: -7818470522051490577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 726
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58674b7bae419dcc0800000000000000
+      internalID: -3685891821689080187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b21fd6f85bc9e0800000000000000
+      internalID: -1600087425272334168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c22372dcad47020800000000000000
+      internalID: 2338734681172880487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009e4029e6907650800000000000000
+      internalID: 6228644212666961924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 142
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc992392c5082a0800000000000000
+      internalID: -6737283710533907472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 24
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc5d040f5a1be90800000000000000
+      internalID: -7011640693540663382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 242
+        width: 137
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73558292270595700800000000000000
+      internalID: 529542882439746871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 385
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172d77523ed2b0c0800000000000000
+      internalID: -4561339164775340265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 341
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61df58c8870d90f80800000000000000
+      internalID: -8139745635323216618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 290
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b271791d19d83500800000000000000
+      internalID: 376289287889580720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 254
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac230d421906db0800000000000000
+      internalID: -4800677615479109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 246
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0fc5896d5153b0800000000000000
+      internalID: -5525532560009000291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 338
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6e67f773c2d120800000000000000
+      internalID: 2437225268380593475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b4ed44e27bc4a8469b6f4a8105fcbc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MAST_Holder
+  - Terrain
+  - Wood
+  - Sand
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostPro_Main
+  - Player
+  - TalkRange
+  - CPU
+  - InOutEvent
+  - NoPost
+  - Ground
+  - Wall
+  - EventRange
+  - TouchEvent
+  - OnlyPlayer
+  - GroundChecker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec91e1b3fb0bf14caa6e773f6053fe6, type: 3}
+  m_Name: Kaihuku_A
+  m_EditorClassIdentifier: 
+  itemName: "\u56DE\u5FA9\u85AC"
+  itemSprite: {fileID: 21300000, guid: 2f605f8487435b64780f2f663cc01c4c, type: 3}
+  itemInfo: "\u3054\u304F\u3075\u3064\u3046\u306E\u56DE\u5FA9\u85AC"
+  itemType: 0
+  useScene: 0

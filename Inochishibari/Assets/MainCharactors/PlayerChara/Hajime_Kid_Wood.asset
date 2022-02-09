@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8034cad64fecd459b36b5f48d52529, type: 3}
+  m_Name: Hajime_Kid_Wood
+  m_EditorClassIdentifier: 
+  Sprites_Run:
+    forward:
+    - {fileID: -6827873589713670461, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 1372542387048778034, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 5130452039265352782, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 3660860013906007678, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 7437456139789763471, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: -5923154549394866861, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    back:
+    - {fileID: 4046767293208506113, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 2809250090311520698, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 3765610408535004620, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: -3157889454753795412, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 4028694751848635477, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    - {fileID: 7021577211800351202, guid: 958851b14a1415b4dbb25175655c9c95, type: 3}
+    right:
+    - {fileID: 3261257682095941003, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: 8664981186262260514, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: 807304146447038606, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -5014448065284165533, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -3387135119070092509, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -3568928546895656268, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    left:
+    - {fileID: -3012105664931178484, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -2174399546438643600, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -2089457523197786125, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: 609631917252100878, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -4178685295981646392, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+    - {fileID: -8943426519756549560, guid: f7fd3cc50741ac640898d203e0f0645c, type: 3}
+  Sprites_Idle:
+    forward: {fileID: -1706361839240298881, guid: cf36a14e316690444be1c0e5f8766f97, type: 3}
+    back: {fileID: 2298917543975915230, guid: cf36a14e316690444be1c0e5f8766f97, type: 3}
+    right: {fileID: -8842256478353884450, guid: cf36a14e316690444be1c0e5f8766f97, type: 3}
+    left: {fileID: 7568734005349128570, guid: cf36a14e316690444be1c0e5f8766f97, type: 3}
+  charaCard: {fileID: 11400000, guid: 8750e989ce00201418837b39a5ae9ced, type: 2}
+  getSkillLevel: []
